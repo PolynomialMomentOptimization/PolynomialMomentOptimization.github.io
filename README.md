@@ -4,5 +4,6 @@ Polynomial and Moment optimization is about finding global optima of optimizatio
 These refer to primal programs directly expressed with polynomials and dual models on moments.
 
 We present
-- a database of polynomial, moment and sdp problems.
-- an overview of software for solving polynomial and moment optimization problems
+- a [database](https://github.com/PolynomialMomentOptimization/data) of polynomial, moment and sdp problems.
+- an overview of [software](pmo-software.html) for solving polynomial and moment optimization problems
+
