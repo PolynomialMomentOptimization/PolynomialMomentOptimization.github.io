@@ -1,4 +1,4 @@
-# jump-dev.github.io
+# PolynomialMomentOptimization.github.io
 
 Source for jump.dev
 
