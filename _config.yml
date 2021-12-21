@@ -71,7 +71,7 @@ timezone: America/New_York # Timezone for blog posts and alike
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Polynomial & Moment Optimization" # Site name or title, also used in jekyll-seo-tag
-#logo: "/assets/poema-logo-with-text.svg" # Site logo, also used in jekyll-seo-tag
+#logo: "/assets/pmo-logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Polynomial and Moment Optimization" # Site description and default description, also used in jekyll-seo-tag
 url: "https://github.com/PolynomialMomentOptimization/PolynomialMomentOptimization.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
