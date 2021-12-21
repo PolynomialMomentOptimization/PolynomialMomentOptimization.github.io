@@ -1,9 +1,11 @@
-## Polynomial and Moment Optimization
+# jump-dev.github.io
 
-Polynomial and Moment optimization is about finding global optima of optimization problems described by polynomial objective functions and polynomial constraints. 
-These refer to primal programs directly expressed with polynomials and dual models on moments.
+Source for jump.dev
 
-We present
-- a [database](https://github.com/PolynomialMomentOptimization/data) of polynomial, moment and sdp problems.
-- an overview of [software](pmo-software.html) for solving polynomial and moment optimization problems
+This uses jekyll to generate static web pages. To run the source locally, see: [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
+1. Install everything it says.
+2. In your local directory of this repository, run `bundle exec jekyll serve` (in the terminal).
+3. Open `http://localhost:4000` in your web browser.
+
+It runs under the `master` branch.
