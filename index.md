@@ -1,5 +1,5 @@
 <div class="home-page-logo">
-   <img src="assets/pmo-logo.png">
+   <img src="/assets/pmo-logo.png">
 </div>
 
 
