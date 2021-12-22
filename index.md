@@ -10,7 +10,6 @@ These refer to primal programs directly expressed with polynomials and dual mode
 
 ## What is presented here ?
 
-- a [database](https://github.com/PolynomialMomentOptimization/data) of polynomial, moment and sdp problems.
 - an overview of [software](software/index.html) for solving polynomial and moment optimization problems
-
+- a [database](https://github.com/PolynomialMomentOptimization/data) of polynomial, moment and sdp problems.
 
