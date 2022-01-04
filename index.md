@@ -11,7 +11,6 @@ dual models expressed as moment optimization programs.
 
 ## What is presented here ?
 
-- a [database](https://github.com/PolynomialMomentOptimization/data) of polynomial, moment and sdp problems.
 - an overview of [software](software/index.html) for solving polynomial and moment optimization problems
-
+- a [database](https://github.com/PolynomialMomentOptimization/data) of polynomial, moment and sdp problems.
 
