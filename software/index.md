@@ -17,4 +17,4 @@ These Julia packages use  SDP solvers via the interface package [JuMP.jl](https:
 
 ## Polynomial equation solvers
 
-- [mpsolve](https://msolve.lip6.fr) is an open source C library developed by University of Sorbonne and TU Kaiserslautern for polynomial system solving with algebraic methods such as Groebner bases, in particular it can also be used for solving polynomial optimization problems.
+- [mpsolve](https://msolve.lip6.fr) is an open source C library for polynomial system solving with algebraic methods such as Groebner bases. In particular it can be used for solving polynomial optimization problems. It is developed by Jeremy Berthomieu (University of Sorbonne), Christian Eder (TU Kaiserslautern) and Mohab Safey El Din (University of Sorbonne).
