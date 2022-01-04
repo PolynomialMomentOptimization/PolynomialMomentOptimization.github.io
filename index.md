@@ -6,7 +6,8 @@
 ## What is Polynomial and Moment Optimization ?
 
 Polynomial and Moment optimization is about finding global optima of optimization problems described by polynomial objective functions and polynomial constraints. 
-These refer to primal programs directly expressed with polynomials and dual models on moments.
+These refer to primal programs directly expressed with polynomials and
+dual models expressed as moment optimization programs.
 
 ## What is presented here ?
 
